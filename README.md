@@ -1,5 +1,5 @@
 # Stock-Market-Analysis
-# This assignment is performed by me as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
+### This assignment is performed by me as part of PG Diploma in Data Science program offerd by IIITB and upgrad.
 
 Two of India's biggest stock exchanges BSE and NSE, collectively clear trades combining to greater than 40,000 crores every day. As you might already be aware, a lot of trading happens on the basis of technical and fundamental analysis.
 
